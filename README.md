@@ -1,2 +1,2 @@
 # Zama
-I am building an app for Zama.ng
+I am building an iOS app for Zama.ng
